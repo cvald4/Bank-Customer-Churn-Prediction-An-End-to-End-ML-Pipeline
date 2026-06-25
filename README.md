@@ -1,4 +1,4 @@
-# Bank-Customer-Churn-Prediction-An-End-to-End-ML-Pipeline
+# Bank Customer Churn Prediction An End to End ML Pipeline
 
 ## 📌 Project Overview
 Customer acquisition is significantly more expensive than customer retention. This project builds an end-to-end Machine Learning pipeline to predict which bank customers are most likely to churn (leave the bank). By identifying at-risk customers, the bank can proactively deploy targeted retention campaigns, ultimately saving revenue.
