@@ -46,7 +46,8 @@ Advanced models like LightGBM act as "black boxes." To make the model actionable
 
 1. **`CustomerChurnEndToEnd.ipynb`**: Fully documented Jupyter Notebook containing the data cleaning, feature engineering, ML pipeline, and SHAP analysis.
 2. **Streamlit Web App (`app.py`)**: An interactive tool allowing stakeholders to input a customer's profile and receive a real-time Churn Probability and Risk Level.
-3. **Power BI Dashboard**: An executive summary dashboard visualizing total churn rates, high-risk segments, and geographic revenue at risk.
+   https://bank-customer-churn-prediction-an-end-to-end-ml-pipeline-y2bak.streamlit.app/
+4. **Power BI Dashboard**: An executive summary dashboard visualizing total churn rates, high-risk segments, and geographic revenue at risk.
    https://app.powerbi.com/links/FUARUkjg6F?ctid=e202cd47-7a56-4baa-99e3-e3b71a7c77dd&pbi_source=linkShare
 
 *(Optional: Insert a GIF or Screenshot of your Power BI dashboard here)*
