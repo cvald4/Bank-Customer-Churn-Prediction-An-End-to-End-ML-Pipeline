@@ -6,7 +6,7 @@ Customer acquisition is significantly more expensive than customer retention. Th
 This project covers the entire data science lifecycle: Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, predictive modeling with ensemble methods (XGBoost, LightGBM), Model Explainability (SHAP), and deployment via an interactive Streamlit web application.
 
 ## 📊 Dataset & Tech Stack
-* **Dataset:** Bank Customer Churn Dataset (10,000 records, 14 attributes).
+* **Dataset:** [Bank Customer Churn Prediction Dataset (Kaggle)](https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset) containing 10,000 records and 14 attributes.
 * **Target Variable:** `Exited` (1 = Churned, 0 = Stayed).
 * **Tech Stack:** Python, Pandas, Matplotlib/Seaborn, Scikit-Learn, XGBoost, LightGBM, SHAP, Streamlit, Power BI.
 
@@ -47,13 +47,6 @@ Advanced models like LightGBM act as "black boxes." To make the model actionable
 1. **`CustomerChurnEndToEnd.ipynb`**: Fully documented Jupyter Notebook containing the data cleaning, feature engineering, ML pipeline, and SHAP analysis.
 2. **Streamlit Web App (`app.py`)**: An interactive tool allowing stakeholders to input a customer's profile and receive a real-time Churn Probability and Risk Level.
    https://bank-customer-churn-prediction-an-end-to-end-ml-pipeline-y2bak.streamlit.app/
-4. **Power BI Dashboard**: An executive summary dashboard visualizing total churn rates, high-risk segments, and geographic revenue at risk.
+3. **Power BI Dashboard**: An executive summary dashboard visualizing total churn rates, high-risk segments, and geographic revenue at risk.
    https://app.powerbi.com/links/FUARUkjg6F?ctid=e202cd47-7a56-4baa-99e3-e3b71a7c77dd&pbi_source=linkShare
 
-*(Optional: Insert a GIF or Screenshot of your Power BI dashboard here)*
-
-## 💻 How to Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/yourusername/bank-customer-churn.git](https://github.com/yourusername/bank-customer-churn.git)
