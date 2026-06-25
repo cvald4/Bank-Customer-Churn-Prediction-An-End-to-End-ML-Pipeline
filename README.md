@@ -1,3 +1,5 @@
+<img width="2196" height="1331" alt="Screenshot (741)" src="https://github.com/user-attachments/assets/031b8915-c77e-430c-8d43-46d135251e99" />
+<img width="2196" height="1331" alt="Screenshot (741)" src="https://github.com/user-attachments/assets/5b0af2d0-3cf5-41ed-9026-2b6d69d077b4" />
 # Bank Customer Churn Prediction An End to End ML Pipeline
 
 ## 📌 Project Overview
@@ -49,5 +51,8 @@ Advanced models like LightGBM act as "black boxes." To make the model actionable
    https://bank-customer-churn-prediction-an-end-to-end-ml-pipeline-y2bak.streamlit.app/<img width="2256" height="1504" alt="Screenshot (744)" src="https://github.com/user-attachments/assets/53246c05-5d6a-4796-b2c0-0f1a77048255" />
 
 3. **Power BI Dashboard**: An executive summary dashboard visualizing total churn rates, high-risk segments, and geographic revenue at risk.
-   https://app.powerbi.com/links/FUARUkjg6F?ctid=e202cd47-7a56-4baa-99e3-e3b71a7c77dd&pbi_source=linkShare
+   https://app.powerbi.com/links/FUARUkjg6F?ctid=e202cd47-7a56-4baa-99e3-e3b71a7c77dd&pbi_source=linkShare<img width="2196" height="1331" alt="Screenshot (741)" src="https://github.com/user-attachments/assets/d862485b-08aa-4ad3-8f29-a6e5a374de66" /><img width="2189" height="1359" alt="Screenshot (742)" src="https://github.com/user-attachments/assets/507f96be-2922-4fd2-8ca3-4dc7f5c12349" /><img width="2193" height="1361" alt="Screenshot (743)" src="https://github.com/user-attachments/assets/6d1884bd-03c4-40ea-9616-2ca3c5fd618a" />
+
+
+
 
